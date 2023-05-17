@@ -11,5 +11,5 @@ Based of x_e_out [-] are made on:
 -	length [mm]
 -	chf_exp [MW/m2]
 
-Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e15
-Kaggle Notebook: https://www.kaggle.com/code/mnokno/ps3e15-eda-imputation-using-mice
+Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e15  
+Kaggle Notebook: https://www.kaggle.com/code/mnokno/ps3e15-eda-imputation-using-mice  
